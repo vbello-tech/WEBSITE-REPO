@@ -12,6 +12,7 @@ footer {
     padding: 1%;
     float: center;
     margin: auto;
+    font-size: 30px;
 }
 article{
     padding: 1%;
@@ -36,7 +37,7 @@ nav {
 nav ul li a {
     color: whitesmoke;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 50px;
     text-align: center;
     padding: 1pt;
 }
